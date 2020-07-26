@@ -31,4 +31,4 @@ Please refer to [CONTRIBUTING.md](https://github.com/vector-im/riotX-android/blo
 
 Come chat with the community in the dedicated Matrix [room](https://matrix.to/#/#element-android:matrix.org).
 
-Test Change
+Test Change #2
